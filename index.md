@@ -13,9 +13,7 @@ The corpus includes eye-tracking data from native French readers and contains di
 
 ## Sample file
 
-A sample TSV file is available below:
-
-- [Clinical case original sample TSV](sample_data/clinical_case_original.tsv)
+- [Clinical case original sample TSV](sample_data/SET_2_B_general_participant8_clinical_original_226.tsv)
 
 ## Documentation
 
