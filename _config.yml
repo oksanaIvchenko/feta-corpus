@@ -1,6 +1,3 @@
----
-layout: default
-title: Home
----
-
-Welcome to the FETA corpus website.
+title: FETA Corpus
+description: French eye-tracking corpus for reading behaviour, text complexity, and simplification studies.
+theme: minima
