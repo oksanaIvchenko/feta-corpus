@@ -3,12 +3,16 @@ layout: default
 title: Eye-Tracking Corpus
 ---
 
-<p style="color: green;"><strong>⚠️ This page is currently under development.</strong></p>
+<p style="color: green; font-weight: bold;">
+⚠️ This page is currently under development.
+</p>
+
+<p style="color: green;">
 
 The FETA eye-tracking corpus is currently in the final stages of preparation, including data cleaning and documentation. The full public release will be available shortly.
 
 In the meantime, if you are interested in the dataset or specific parts of it, please feel free to contact me by email. Depending on the type of data you need, some resources may already be available and can potentially be shared upon request.
-
+</p>
 ---
 
 
