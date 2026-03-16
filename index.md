@@ -3,7 +3,7 @@ layout: default
 title: Eye-Tracking Corpus
 ---
 
-⚠️ **This page is currently under development.**
+<p style="color: green;"><strong>⚠️ This page is currently under development.</strong></p>
 
 The FETA eye-tracking corpus is currently in the final stages of preparation, including data cleaning and documentation. The full public release will be available shortly.
 
@@ -27,13 +27,7 @@ The corpus includes eye-tracking data from native French readers and contains di
 The documentation of the corpus, file structure, and annotation format will be added progressively on this website.
 
 ## Citation
-
-
 ## Access and use
-
-This website provides documentation and sample material from the corpus.  
-The license and access conditions for the full corpus will be specified later.
-
 ## Contact
 
 For questions or access requests, please contact:
