@@ -1,3 +1,5 @@
-title: FETA
-description: French eye-tracking corpus for reading behaviour, text complexity, and simplification studies.
-theme: minima
+<style>
+.site-footer {
+  display: none;
+}
+</style>
