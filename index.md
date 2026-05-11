@@ -29,7 +29,9 @@ The corpus includes eye-tracking data from native French readers and contains di
 The documentation of the corpus, file structure, and annotation format will be added progressively on this website.
 
 ## Citation
-## Access and use
+
+Ivchenko, O., & Grabar, N. (2026). Comparing Reading Behavior across Reader Expertise and Text Complexity: Insights from the French Eye-Tracking Corpus (FETA). In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 6144–6154). European Language Resources Association (ELRA). https://doi.org/10.63317/2xr5zj2u6h7p.
+
 ## Contact
 
 For questions or access requests, please contact:
