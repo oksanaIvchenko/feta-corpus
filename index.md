@@ -90,7 +90,6 @@ The dataset is organized by experimental set and participant group.
 
 Example structure:
 
-text
 FETA/
 ├── SET_1_A_general/
 ├── SET_1_A_orthophoniste/
