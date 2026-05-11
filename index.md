@@ -106,7 +106,7 @@ FETA/
 The FETA corpus is available as a compressed archive.
 
 - [Download FETA Corpus v1.0](https://github.com/oksanaivchenko/feta-corpus/releases/download/v1.0/FETA_v1.0.zip)
-- [Download sample file](sample_data/SET_2_B_general_participant8_clinical_original_226.tsv)
+- [Clinical case original sample TSV](sample_data/SET_2_B_general_participant8_clinical_original_226.tsv)
 
 The archive contains the cleaned TSV files.
 
