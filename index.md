@@ -20,11 +20,6 @@ The corpus contains word-level eye-tracking data collected from native French re
 
 ---
 
-## About
-
-FETA was created for research in psycholinguistics, computational linguistics, natural language processing, readability assessment, and automatic text simplification.
-
-The corpus is designed to support the analysis of how readers process texts of varying complexity and how simplification affects reading behaviour.
 
 The dataset includes:
 
@@ -95,7 +90,7 @@ The dataset is organized by experimental set and participant group.
 
 Example structure:
 
-```text
+text
 FETA/
 ├── SET_1_A_general/
 ├── SET_1_A_orthophoniste/
