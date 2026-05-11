@@ -14,26 +14,107 @@ In the meantime, if you are interested in the dataset or specific parts of it, p
 ---
 
 
+**FETA** (*French Eye-TrAcking Corpus*) is a French eye-tracking corpus designed to study reading behaviour across text types, text complexity, reader expertise, and text simplification.
+
+The corpus contains word-level eye-tracking data collected from native French readers while they read texts from different domains and versions, including original and manually simplified texts.
+
+---
+
 ## About
 
-FETA is a French eye-tracking corpus designed to study reading behaviour across text types, text complexity, and text simplification.
+FETA was created for research in psycholinguistics, computational linguistics, natural language processing, readability assessment, and automatic text simplification.
 
-The corpus includes eye-tracking data from native French readers and contains different text types and versions.
+The corpus is designed to support the analysis of how readers process texts of varying complexity and how simplification affects reading behaviour.
 
-## Sample file
+The dataset includes:
 
-- [Clinical case original sample TSV](sample_data/SET_2_B_general_participant8_clinical_original_226.tsv)
+- French texts from several domains;
+- original and manually simplified text versions;
+- eye-tracking measures collected during reading;
+- word-level Areas of Interest (AOIs);
+- participant metadata;
+- information about text type and text version.
 
-## Documentation
+The data were collected using an eye-tracking experiment in which participants read texts presented screen by screen. Eye movements were recorded and exported at the word/AOI level.
 
-The documentation of the corpus, file structure, and annotation format will be added progressively on this website.
+---
+
+## Corpus Overview
+
+| Category | Description |
+|---|---|
+| Language | French |
+| Data type | Eye-tracking reading data |
+| Annotation level | Word-level AOI |
+| Text domains | General, medical, clinical |
+| Text versions | Original, simplified |
+| Participant groups | General readers, speech and language therapy students |
+| File format | TSV |
+| Eye tracker | Tobii Pro Spectrum |
+| Sampling rate | 600 Hz |
+
+---
+
+## Text Types
+
+The corpus contains three main text domains:
+
+| Text type | Description |
+|---|---|
+| `general` | General-domain texts |
+| `medical` | Medical-domain texts |
+| `clinical` | Clinical case texts |
+
+Each text may appear in one of two versions:
+
+| Version | Description |
+|---|---|
+| `original` | Original version of the text |
+| `simplified` | Manually simplified version of the text |
+
+The simplified versions were manually produced following plain-language and text simplification principles.
+
+---
+
+## Participant Groups
+
+The corpus includes two participant groups:
+
+| Group label | Description |
+|---|---|
+| `General` | Participants without medical or speech-language therapy training |
+| `SpeechStudents` | Speech and language therapy students |
+
+Participants were native French readers with normal or corrected-to-normal vision.
+
+---
+
+## Dataset Structure
+
+The dataset is organized by experimental set and participant group.
+
+Example structure:
+
+```text
+FETA/
+├── SET_1_A_general/
+├── SET_1_A_orthophoniste/
+├── SET_1_B_general/
+├── SET_1_B_orthophoniste/
+├── SET_2_A_general/
+├── SET_2_A_orthophoniste/
+├── SET_2_B_general/
+└── SET_2_B_orthophoniste/
 
 ## Citation
-
-Ivchenko, O., & Grabar, N. (2026). Comparing Reading Behavior across Reader Expertise and Text Complexity: Insights from the French Eye-Tracking Corpus (FETA). In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 6144–6154). European Language Resources Association (ELRA). https://doi.org/10.63317/2xr5zj2u6h7p.
-
+@inproceedings{ivchenko-grabar-2026-feta,
+  title = {Comparing Reading Behavior across Reader Expertise and Text Complexity: Insights from the French Eye-Tracking Corpus (FETA)},
+  author = {Ivchenko, Oksana and Grabar, Natalia},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  pages = {6144--6154},
+  publisher = {European Language Resources Association (ELRA)},
+  year = {2026},
+  doi = {10.63317/2xr5zj2u6h7p}
+}
 ## Contact
-
-For questions or access requests, please contact:
-
-- oksana.ivchenko.etu@univ-lille.fr
+For questions or access requests, please contact: - oksana.ivchenko.etu@univ-lille.fr
