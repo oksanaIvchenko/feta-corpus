@@ -1,17 +1,21 @@
 ---
 layout: default
 title: Eye-Tracking Corpus
----
-<p style="color: green; font-weight: bold;">
-This page is regularly updated as the corpus documentation evolves 😊
+
+<div style="background-color: #fff7ed; border-left: 5px solid #d97706; padding: 18px 22px; border-radius: 10px; margin-bottom: 28px; color: #5f370e;">
+
+<p style="font-weight: bold; margin-top: 0;">
+This page is regularly updated as the FETA corpus documentation evolves 😊
 </p>
 
-<p style="color: green;">
-The eye-tracking corpus is currently in the final stages of preparation, including data cleaning and documentation. The full public release will be available shortly.
+<p style="margin-bottom: 0;">
+The FETA corpus is available, and its documentation is being progressively completed and refined. Additional details, examples, and metadata descriptions will be added over time.
 
-In the meantime, if you are interested in the dataset or specific parts of it, please feel free to contact me by email. Depending on the type of data you need, some resources may already be available and can potentially be shared upon request.
+If you are interested in the dataset or specific parts of it, please feel free to contact me by email. Depending on the type of data you need, some resources may already be available and can potentially be shared upon request.
 </p>
----
+
+</div>
+
 
 
 **FETA** (*French Eye-TrAcking Corpus*) is a French eye-tracking corpus designed to study reading behaviour across text types, text complexity, reader expertise, and text simplification.
