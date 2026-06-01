@@ -1,6 +1,22 @@
 ---
 layout: default
 title: Eye-Tracking Corpus
+---
+
+<style>
+body {
+  background-color: #fffaf3;
+}
+
+table {
+  background-color: #ffffff;
+}
+
+hr {
+  border: none;
+  border-top: 3px solid #f1e3d3;
+}
+</style>
 
 <div style="background-color: #fff7ed; border-left: 5px solid #d97706; padding: 18px 22px; border-radius: 10px; margin-bottom: 28px; color: #5f370e;">
 
@@ -15,7 +31,6 @@ If you are interested in the dataset or specific parts of it, please feel free t
 </p>
 
 </div>
-
 
 
 **FETA** (*French Eye-TrAcking Corpus*) is a French eye-tracking corpus designed to study reading behaviour across text types, text complexity, reader expertise, and text simplification.
