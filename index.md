@@ -156,16 +156,20 @@ For more information about the corpus construction and experimental design, plea
 
 ```bibtex
 @inproceedings{ivchenko-grabar-2025-french,
-  title = {A {F}rench Eye-Tracking Corpus of Original and Simplified Medical, Clinical, and General Texts - {FETA}},
-  author = {Ivchenko, Oksana and Grabar, Natalia},
-  editor = {Acarturk, Cengiz and Nasir, Jamal and Can, Burcu and Coltekin, Cagr{\i}},
-  booktitle = {Proceedings of the First International Workshop on Gaze Data and Natural Language Processing},
-  month = sep,
-  year = {2025},
-  address = {Varna, Bulgaria},
-  publisher = {INCOMA Ltd., Shoumen, BULGARIA},
-  url = {https://aclanthology.org/2025.gaze4nlp-1.5/},
-  pages = {37--43}
+    title = "A {F}rench Eye-Tracking Corpus of Original and Simplified Medical, Clinical, and General Texts - {FETA}",
+    author = "Ivchenko, Oksana  and
+      Grabar, Natalia",
+    editor = "Acarturk, Cengiz  and
+      Nasir, Jamal  and
+      Can, Burcu  and
+      Coltekin, Cagr{\i}",
+    booktitle = "Proceedings of the First International Workshop on Gaze Data and Natural Language Processing",
+    month = sep,
+    year = "2025",
+    address = "Varna, Bulgaria",
+    publisher = "INCOMA Ltd., Shoumen, BULGARIA",
+    url = "https://aclanthology.org/2025.gaze4nlp-1.5/",
+    pages = "37--43"
 }
 ```
 
