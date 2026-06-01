@@ -1,2 +1,6 @@
-title: ""
-description: ""
+---
+layout: default
+title: "FETA Corpus: French Eye-Tracking Corpus"
+permalink: /feta-corpus/
+description: "FETA is a French eye-tracking corpus with word-level reading data for general, medical, and clinical texts in original and simplified versions."
+---
