@@ -138,13 +138,16 @@ If you use the FETA corpus, please cite the following papers.
 For more information about the participant groups and the comparison between general readers and speech and language therapy students, please cite:
 
 ```bibtex
-@inproceedings{ivchenko-grabar-2026-feta,
+@inproceedings{ivchenko-etal-2026-comparing,
   title = {Comparing Reading Behavior across Reader Expertise and Text Complexity: Insights from the French Eye-Tracking Corpus (FETA)},
   author = {Ivchenko, Oksana and Grabar, Natalia},
   booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
-  pages = {6144--6154},
-  publisher = {European Language Resources Association (ELRA)},
+  month = {May},
   year = {2026},
+  pages = {6144--6154},
+  address = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  editor = {Piperidis, Stelios and Bel, Núria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
   doi = {10.63317/2xr5zj2u6h7p}
 }
 ```
