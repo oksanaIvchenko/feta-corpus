@@ -33,7 +33,7 @@ If you are interested in the dataset or specific parts of it, please feel free t
 </div>
 
 
-**FETA** (*French Eye-TrAcking Corpus*) is a French eye-tracking corpus designed to study reading behaviour across text types, text complexity, reader expertise, and text simplification.
+**FETA** is a French eye-tracking corpus designed to study reading behaviour across text types, text complexity, reader expertise, and text simplification.
 
 The corpus contains word-level eye-tracking data collected from native French readers while they read texts from different domains and versions, including original and manually simplified texts.
 
