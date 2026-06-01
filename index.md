@@ -84,10 +84,13 @@ Participants were native French readers with normal or corrected-to-normal visio
 
 ## Dataset Structure
 
-The dataset is organized by experimental set and participant group.
+The dataset is organized by experimental set, subset, and participant group.
+
+Folder names indicate the experimental set (`SET_1` or `SET_2`), the subset (`A` or `B`), and the participant group (`general` or `orthophoniste`).
 
 Example structure:
 
+```text
 FETA/
 ├── SET_1_A_general/
 ├── SET_1_A_orthophoniste/
@@ -97,7 +100,7 @@ FETA/
 ├── SET_2_A_orthophoniste/
 ├── SET_2_B_general/
 └── SET_2_B_orthophoniste/
-
+```
 
 ## Download
 
