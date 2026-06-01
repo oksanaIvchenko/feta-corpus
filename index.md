@@ -21,7 +21,7 @@ hr {
 <div style="background-color: #fff7ed; border-left: 5px solid #d97706; padding: 18px 22px; border-radius: 10px; margin-bottom: 28px; color: #5f370e;">
 
 <p style="font-weight: bold; margin-top: 0;">
-This page is regularly updated as the FETA corpus documentation evolves 😊
+This page is regularly updated as the documentation evolves 😊
 </p>
 
 <p style="margin-bottom: 0;">
