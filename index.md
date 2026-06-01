@@ -3,7 +3,7 @@ layout: default
 title: Eye-Tracking Corpus
 ---
 <p style="color: green; font-weight: bold;">
-⚠️ This page is currently under development.
+This page is regularly updated as the corpus documentation evolves 😊
 </p>
 
 <p style="color: green;">
@@ -60,7 +60,7 @@ The corpus contains three main text domains:
 | `medical` | Medical-domain texts |
 | `clinical` | Clinical case texts |
 
-Each text may appear in one of two versions:
+Each original text has a corresponding manually simplified version:
 
 | Version | Description |
 |---|---|
@@ -68,8 +68,6 @@ Each text may appear in one of two versions:
 | `simplified` | Manually simplified version of the text |
 
 The simplified versions were manually produced following plain-language and text simplification principles.
-
----
 
 ## Participant Groups
 
@@ -146,4 +144,6 @@ For more information about the corpus construction and experimental design, plea
 ```
 
 ## Contact
-For questions or access requests, please contact: - oksana.ivchenko.etu@univ-lille.fr
+<p style="color: green; font-weight: bold;">
+For questions or access requests, please contact:  oksana.ivchenko.etu@univ-lille.fr
+</p>
