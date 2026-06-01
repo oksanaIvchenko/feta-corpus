@@ -112,7 +112,9 @@ The archive contains the cleaned TSV files.
 
 ## Citation
 
-For more information about the **two participant groups**, please cite:
+If you use the FETA corpus, please cite the following papers.
+
+For more information about the participant groups and the comparison between general readers and speech and language therapy students, please cite:
 
 ```bibtex
 @inproceedings{ivchenko-grabar-2026-feta,
@@ -124,26 +126,24 @@ For more information about the **two participant groups**, please cite:
   year = {2026},
   doi = {10.63317/2xr5zj2u6h7p}
 }
-For more information about the experimental design, please cite:
+```
 
-Extrait de code
+For more information about the corpus construction and experimental design, please cite:
+
+```bibtex
 @inproceedings{ivchenko-grabar-2025-french,
-    title = "A {F}rench Eye-Tracking Corpus of Original and Simplified Medical, Clinical, and General Texts - {FETA}",
-    author = "Ivchenko, Oksana  and
-      Grabar, Natalia",
-    editor = "Acarturk, Cengiz  and
-      Nasir, Jamal  and
-      Can, Burcu  and
-      Coltekin, Cagr{\i}",
-    booktitle = "Proceedings of the First International Workshop on Gaze Data and Natural Language Processing",
-    month = sep,
-    year = "2025",
-    address = "Varna, Bulgaria",
-    publisher = "INCOMA Ltd., Shoumen, BULGARIA",
-    url = "https://aclanthology.org/2025.gaze4nlp-1.5/",
-    pages = "37--43",
-    abstract = "Eye tracking offers an objective window on real-time cognitive processing of information being read: longer fixations, more regressions, and wider pupil dilation reliably index linguistic difficulty. Yet, there is a paucity of the available corpora annotated with eye-tracking features. We introduce in this paper the FETA corpus {--} a French Eye-TrAcking corpus. It combines three types of texts (general, medical and clinical) in two versions (original and manually simplified). These texts are read by 46 participants, from which we collect eye-tracking data through dozens of eye-tracking features."
+  title = {A {F}rench Eye-Tracking Corpus of Original and Simplified Medical, Clinical, and General Texts - {FETA}},
+  author = {Ivchenko, Oksana and Grabar, Natalia},
+  editor = {Acarturk, Cengiz and Nasir, Jamal and Can, Burcu and Coltekin, Cagr{\i}},
+  booktitle = {Proceedings of the First International Workshop on Gaze Data and Natural Language Processing},
+  month = sep,
+  year = {2025},
+  address = {Varna, Bulgaria},
+  publisher = {INCOMA Ltd., Shoumen, BULGARIA},
+  url = {https://aclanthology.org/2025.gaze4nlp-1.5/},
+  pages = {37--43}
 }
+```
 
 ## Contact
 For questions or access requests, please contact: - oksana.ivchenko.etu@univ-lille.fr
