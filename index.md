@@ -37,6 +37,8 @@ If you are interested in the dataset or specific parts of it, please feel free t
 
 The corpus contains word-level eye-tracking data collected from native French readers while they read texts from different domains and versions, including original and manually simplified texts.
 
+- [FETA Corpus: French Eye-Tracking Corpus](https://oksanaivchenko.github.io/feta-corpus/)
+
 ---
 
 
